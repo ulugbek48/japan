@@ -19,7 +19,7 @@
         width: 550px;
         margin: 5px 10px;
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 }
 
@@ -28,7 +28,7 @@
         width: 555px;
         margin: 5px 10px;
         display: flex;
-
+        flex-direction: column;
     }
 }
 
